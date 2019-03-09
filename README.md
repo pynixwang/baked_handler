@@ -1,6 +1,6 @@
-```
+```crystal
 require "http/server"
-require "./baked_handler"
+require "baked_handler"
 require "baked_file_system"
 
 class StaticBaked
