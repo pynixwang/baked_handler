@@ -1,0 +1,14 @@
+name: baked_handler
+version: 0.1.0
+
+authors:
+  - pynix <pynix.wang@gmail.com>
+
+crystal: 0.27.2
+
+license: MIT
+
+dependencies:
+  baked_file_system:
+    github: schovi/baked_file_system
+    version: 0.9.8
